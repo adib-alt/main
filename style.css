@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+body{
+    font-family:Teko;
+}
+
+.part-one{
+    float: left;
+    justify-content: space-around;
+}
+
+.navbar img{
+    width:45%;
+}
+
+li{
+    list-style: none;
+    float:left;
+    margin-left:15px;
+ 
+}
+
+.navbar{
+    float:left;
+}
+
+a{
+    color:black;
+    text-decoration:none;
+}
+
+.pt img{
+    width:75%;
+}
+
+.pt{
+    width:50%;
+    float:left;
+}
+
+.pt h1{
+    font-family:teko;
+    font-size:95px;
+    color:#FA804C;
+
+}
+.pt h2{
+    font-family:teko;
+    font-size:80px;
+    color:blue;
+}
+
+.card-footer .btn{
+    width:50%;
+    float:left;
+}
+
+#card-footer{
+    border:0px;
+    background-color:white;
+    font-family:teko;
+}
+
+#card-footer h3{
+    color:orange;
+    font-size:30px;
+}
+
+.card-footer{
+    border:0px;
+    color:white;
+}
+
+.card{
+    border:0px !important ;
+    border-radius: 75px !important;
+   
+}
+
+.card-body h1{
+    color:#FA804C;
+    font-family:teko;
+}
+
+.fea img,h1{
+    float:left;
+}
+
+.hh{
+    background-color:rgba(247, 223, 8, 0.904);
+    height:900px;
+}
+
+
+.feature{
+
+    float:left;
+}
+
+.col{
+border:0px !important;
+    width:400px !important;
+    height:700px;
+    
+}
+
+#product img{
+    background-color:#f5f5f5;
+    border-radius:55px;
+    margin: 1px 1px 1px 1px;
+
+}
+
+.x{
+    color:rgba(56, 22, 151, 0.788);
+}
+
+.btn{
+    height:50px;
+    width:150px;
+   border-radius: 50px;
+}
+
+.btn{
+    padding:12px 16px;
+}
+
+.hh{
+    height:700px;
+}
